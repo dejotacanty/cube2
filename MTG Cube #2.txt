@@ -1,0 +1,93 @@
+# White/Green - Aggro, Counters
+
+1x Faerie Guidemother 
+1x Loyal Pegasus
+1x Fledgling Griffin
+1x Fearless Fledgling
+1x herald of the sun
+1x Patron of the Valiant
+1x Daybreak Chimera
+1x Seraph of Dawn
+1x Vilpikeet
+1x Aerial Assult
+1x Silth Ascendant
+1x Ardenvale Tactician
+1x Spontaneous Flight
+1x Wingstead Rider
+1x Geist of the Moors
+
+# White/Blue - Protection, Removal, Ultility
+
+1x Benevolent Bodyguard
+1x Revitalize
+1x Faith's Fetters
+1x Kor Line-Slinger
+1x Sunhome Stalwart
+1x Wall of Omens
+1x Thraben Inspector
+1x Steadfast Sentry
+1x Glass Casket
+1x Blindng Beam
+1x Light of Hope
+1x Make a stand
+1x Divine Arrow
+1x Serra Angel
+1x Blesed Alliance
+1x Skywhaler's shot
+1x Banishing Light
+
+# White/Black - Lifegain/Aristocrats
+
+1x Griffin Aerie
+1x Ajani's Pridmate
+1x Angelic Acord
+1x Soul Warden
+1x Rally for the Throne
+1x Soulmender
+1x Setessan Battle Priest
+1x Leonin Vanguard
+1x Dwarven Priest
+1x Student of Ojutai
+1x Soul's Attendant
+1x Doomed Travel
+1x Ninth Bridge Patrol
+
+# White - Generic Value Cards
+
+1x Wall of one Thousand Cuts
+1x Swallow Whole
+1x Hyena Umbra
+1x Fan Bearer
+1x Mardu woe-reaper
+1x Fencing Ace
+1x Youthful knight
+1x Seasoned Hallowblade
+1x Anoiter of Valor
+1x Rambunctious Mutt
+1x Palace Sentinels
+1x Kor Cartogropher
+1x Kinsbale Courier
+1x Vow of Duty
+1x Court Street Denizen
+
+# White - Power Card
+
+1x Captian of the watch
+
+
+# White/Red - Weenies, Go-wide, Group Punch
+
+1x Alharu, SOlemn Ritualist
+1x Squad Captian 
+1x Boros Elite
+1x Daring Skyjek
+1x Ancestral Blade
+1x Captian's Call
+1x Countless Gears Renegade
+1x Triplicate Spirits
+1x Nearheath Chaplian
+1x Syr Alin, the Lion's claw
+1x Canyon Jerboa
+1x Intangible Virtue
+1x Basri's Solidarity
+1x Prava of the Steel Legion
