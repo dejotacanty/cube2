@@ -1,5 +1,4 @@
-# White/Green - Aggro, Counters
-
+#  White/Green - Aggro, Counters
 1x Faerie Guidemother 
 1x Loyal Pegasus
 1x Fledgling Griffin
@@ -8,16 +7,15 @@
 1x Patron of the Valiant
 1x Daybreak Chimera
 1x Seraph of Dawn
-1x Vilpikeet
-1x Aerial Assult
-1x Silth Ascendant
+1x Vulpikeet
+1x Aerial Assault
+1x Slith Ascendant
 1x Ardenvale Tactician
 1x Spontaneous Flight
-1x Wingstead Rider
+1x Wingsteed Rider
 1x Geist of the Moors
 
-# White/Blue - Protection, Removal, Ultility
-
+#  White/Blue - Protection, Removal, Utility
 1x Benevolent Bodyguard
 1x Revitalize
 1x Faith's Fetters
@@ -27,20 +25,19 @@
 1x Thraben Inspector
 1x Steadfast Sentry
 1x Glass Casket
-1x Blindng Beam
+1x Blinding Beam
 1x Light of Hope
 1x Make a stand
 1x Divine Arrow
 1x Serra Angel
-1x Blesed Alliance
+1x Blessed Alliance
 1x Skywhaler's shot
 1x Banishing Light
 
-# White/Black - Lifegain/Aristocrats
-
+#  White/Black - Lifegain/Aristocrats
 1x Griffin Aerie
-1x Ajani's Pridmate
-1x Angelic Acord
+1x Ajani's Pridemate
+1x Angelic Accord
 1x Soul Warden
 1x Rally for the Throne
 1x Soulmender
@@ -49,11 +46,10 @@
 1x Dwarven Priest
 1x Student of Ojutai
 1x Soul's Attendant
-1x Doomed Travel
+1x Doomed Traveler
 1x Ninth Bridge Patrol
 
-# White - Generic Value Cards
-
+#  White - Generic Value Cards
 1x Wall of one Thousand Cuts
 1x Swallow Whole
 1x Hyena Umbra
@@ -62,18 +58,17 @@
 1x Fencing Ace
 1x Youthful knight
 1x Seasoned Hallowblade
-1x Anoiter of Valor
+1x Anointer of Valor
 1x Rambunctious Mutt
 1x Palace Sentinels
-1x Kor Cartogropher
-1x Kinsbale Courier
+1x Kor Cartographer
+1x Kinsbaile Courier
 1x Vow of Duty
 1x Court Street Denizen
 
-# WUBRGC - Power Cards
-
-1x Captian of the watch
-1x Sphinx of the Uthuun
+#  WUBRGC - Power Cards
+1x Captain of the watch
+1x Sphinx of Uthuun
 1x Flesh Carver
 1x Goblin Rabblemaster
 1x Immaculate Magistrate
@@ -82,34 +77,31 @@
 1x Mikokoro, Center of the sea
 
 
-# White/Red - Weenies, Go-wide, Group Punch
-
-1x Alharu, SOlemn Ritualist
-1x Squad Captian 
+#  White/Red - Weenies, Go-wide, Group Punch
+1x Alharu, Solemn Ritualist
+1x Squad Captain 
 1x Boros Elite
 1x Daring Skyjek
 1x Ancestral Blade
-1x Captian's Call
+1x Captain’s Call
 1x Countless Gears Renegade
 1x Triplicate Spirits
-1x Nearheath Chaplian
+1x Nearheath Chaplain
 1x Syr Alin, the Lion's claw
 1x Canyon Jerboa
 1x Intangible Virtue
 1x Basri's Solidarity
 1x Prava of the Steel Legion
 
-# Blue/White - Fliers
-
+#  Blue/White - Fliers
 1x Aven Surveyor
-1x Sphinx of the Uthuun
 1x Winged Words 
 1x Zephyr Charge
 1x Wave Wing Elemental
-1x Eyekite
+1x Angler Drake
 1x Aven Eternal
-1x Aven Wind Mage
-1x Nightvale Sprite
+1x Augury owl
+1x Nightveil Sprite
 1x Tome Raider
 1x Eldrazi Skyspawner
 1x Vexing Gull
@@ -118,14 +110,13 @@
 1x Cloudkin Seer
 1x Peregrine Drake
 
-# Blue/Black or Red - Spells, Control
-
+#  Blue/Black or Red - Spells, Control
 1x Sailor of Means
 1x Merfolk Looter
 1x Sea Gate Oracle
 1x Frost Lynx
 1x Archaeomancer
-1x Scholar of the AGes
+1x Scholar of the Ages
 1x Elusive Spellfist
 1x Brineborn Cutthroat
 1x Cryptic Serpent
@@ -139,7 +130,7 @@
 1x Witching Well
 1x Skywise Teachings
 1x Ominous Seas
-1x Retreat of Coralhelm
+1x Retreat to Coralhelm
 1x Charmed Sleep
 1x Capture Sphere
 1x Enthralling Hold
@@ -162,13 +153,12 @@
 1x Rewind
 1x Turn to frog
 
-# Blue/Green - Tempo Aggro
-
+#  Blue/Green - Tempo Aggro
 1x Mulldrifter
 1x Wall of frost
 1x Force Away
 1x Archipelagore
-1x Puncing Shoreshark
+1x Pouncing Shoreshark
 1x Merchant Raiders
 1x Exclusion Mage
 1x Man-o'-war
@@ -182,11 +172,10 @@
 1x Ninja of the deep hours
 1x Chart a course
 1x Curiosity
-1x Octophrophet
+1x Octoprophet
 1x Syr Elenora, the discerning
 
-#Black/Green - Counters
-
+# Black/Green - Counters
 1x Putrid Goblin
 1x Festering Mummy
 1x Feaster of Fools
@@ -198,12 +187,11 @@
 1x Vengeful Warchief
 1x Bloodthirsty Aerialist
 1x Mortician Beetle
-1x Swarm of the Bloodflies
+1x Swarm of Bloodflies
 1x Unholy Indenture
 1x Locthwain Paladin
 
-# Black/Red - Unblockable/Flying/Cheap Aggro
-
+#  Black/Red - Unblockable/Flying/Cheap Aggro
 1x Gurmag Angler
 1x Malefic Scythe
 1x Changeling Outcast
@@ -212,20 +200,19 @@
 1x Vampire nighthawk
 1x Mogis's Marauder
 1x Sadistic Skymarcher
-1x Vampire Revanant
+1x Vampire Revenant
 1x Highborn Ghoul
 1x Order of midnight
-1x BAnehound
-1x Veiled SHade
+1x Banehound
+1x Veiled Shade
 1x Fourth Bridge Prowler
 1x Mardu Skullhunter
 
-#Black/White - Tokens, Aristocrats
-
+# Black/White - Tokens, Aristocrats
 1x Nadier's Nightblade
 1x Eyeblight Cullers
-1x Nadir, agent of the duskenel
-1x Doomed DIssenter
+1x Nadier, agent of the duskenel
+1x Doomed Dissenter
 1x Gruesome Scourger
 1x Gray Merchant of Asphodel
 1x Marauding Blight-priest
@@ -238,8 +225,7 @@
 1x Spark Reaper
 1x Soulreaper of mogis
 
-#Black/Blue - Reanimator
-
+# Black/Blue - Reanimator
 1x Terrus Wurm
 1x Dread Return
 1x Sewer Shambler
@@ -255,17 +241,16 @@
 1x Lotleth Giant
 1x Syr Konrad, the grim
 
-#Black - Generic Utility, value
-
+# Black - Generic Utility, value
 1x Cadaver Imp
 1x Grimdancer
 1x Blightbeetle
-1x Dusk Leigon Zealot
+1x Dusk Legion Zealot
 1x Phyrexian Rager
 1x Vampire of the DIre Moon
 1x Foulmire Knight
 1x Dead Drop
-1x Maalfield Twins
+1x Maalfeld Twins
 1x Twisted Abomination
 1x Havoc Demon
 1x Feast of Succession
@@ -276,8 +261,7 @@
 1x Murderous Cut
 1x Gravedigger
 
-#Red - Low Curve Aggro, Landfall
-
+# Red - Low Curve Aggro, Landfall
 1x Thunder-Thrash Elder
 1x Keldon Marauders
 1x Rimrock Knight
@@ -303,15 +287,14 @@
 1x Inventor's apprentice
 1x Akoum Hellhound
 
-#Red - Spells
-
+# Red - Spells
 1x Pyre Hound
 1x Spellgorger Weird
 1x Guttersnipe
 1x Kiln Fiend
 1x Young Pyromancer
 1x Pyroceratops
-1x Spellcaster Wolverine
+1x Spelleater Wolverine
 1x Fervent Strike
 1x Light up the stage
 1x Flame Jab
@@ -319,7 +302,7 @@
 1x Act of Aggression
 1x Stoke the flames
 1x Gravitic Punch
-1x Gobin War Party
+1x Goblin War Party
 1x Roast
 1x Firebolt
 1x Jaya's Greeting
@@ -330,19 +313,17 @@
 1x Flame Slash
 1x Arc Trail
 
-#Red - Pump
-
+# Red - Pump
 1x Lightning Talons
 1x Trumpet Blast
 1x Rubblebelt Maaka
 1x Burning Anger
 1x Meteoric Mace
-1x Dragn Mantle
+1x Dragon Mantle
 1x Cartouche of Zeal
 1x Crystal Slipper
 
-#Red - Top End Aggro
-
+# Red - Top End Aggro
 1x Flametongue Kavu
 1x Volcanic Dragon
 1x Lava Serpent
@@ -356,55 +337,52 @@
 1x Boarding Party
 1x Cloudpiercer
 
-#Red - Tokens
-
+# Red - Tokens
 1x Anax, Hardened in the Forge
 1x Molten Birth
 1x Forbidden Friendship
 1x Impact Tremors
 1x Mogg War Marshal
 1x Goblin Bushwhacker
-1x Akoum Stonewalker
+1x Akoum Stonewaker
 1x Dragon Fodder
 
-#Green/Blue - Ramp
-
+# Green/Blue - Ramp
 1x Primordial Wurm
 1x Titanoth Rex
 1x Ancient Brontodon
 1x Sifter Wurm
-1x Colassal Dreadmaw
+1x Colossal Dreadmaw
 1x Wildheart Invoker
 1x Annoyed Altisaur
-1x Llonowar Tribe
+1x Llanowar Tribe
 1x Humble Naturalist
 1x Fyndhorn Elves
 1x Leafkin Druid
 1x Enter the unknown
 1x Attune with Aether
 
-#Green/Red - Landfall
-
+# Green/Red - Landfall
 1x Retreat to Kazandu
 1x Territorial Baloth
 1x Woodborn Behemoth
 1x Cultivate
 1x Scale the Heights
 1x Skyclave Pickaxe
-1x Austicious Starrix
+1x Auspicious Starrix
 1x Borderland Ranger
-1x Terretorial Scythecat
-1x Farhavn Elf
-1x Wood Elf
+1x Territorial Scythecat
+1x Farhaven Elf
+1x Wood Elves
 1x Sakura Tribe Elder
 1x Sporemound
 1x Migratory Greathorn
-1x Grazing Gladhart
+1x Grazing Gladehart
 
-#Green/Black - Counters
-
+# Green/Black - Counters
 1x Lumberknot
-1x Soul's Fertilid
+1x Soul's Might
+1x Fertilid
 1x Crocanura
 1x Ivy Lane Denizen
 1x Vastwood Fortification
@@ -413,16 +391,15 @@
 1x Nessian Hornbeetle
 1x Armorcraft Judge
 1x Timberland Guide
-1x BArkhide Troll
-Tuinvale Treefolk
+1x Barkhide Troll
+1x Tuinvale Treefolk
 1x Bloom Hulk
 1x Spike Feeder
 1x Mowu, Loyal Companion
 
-#Green/White - Tokens
-
+# Green/White - Tokens
 1x Iridescent Hornbeetle
-1x Preema Outrider
+1x Peema Outrider
 1x Nest Invader
 1x Brindle Shoat
 1x Jungleborn Pioneer
@@ -436,13 +413,12 @@ Tuinvale Treefolk
 1x Saproling Migration
 1x Predator's Howl
 
-# Green - Generic Value
-
+#  Green - Generic Value
 1x Rancor
-1x Gentaur Glade
+1x Centaur Glade
 1x Eternal Witness
 1x Halana, Kessig Ranger
-1x MOss VIper
+1x Moss VIper
 1x Elvish Visionary
 1x Duskwatch Recruiter
 1x Elvish Warrior
@@ -457,8 +433,7 @@ Tuinvale Treefolk
 1x Mutagenic Growth
 1x Become Immense
 
-#Colorless - Filler Creatures
-
+# Colorless - Filler Creatures
 1x Rograkh, son of Rohgahh
 1x Iron League Steed
 1x diamond Knight
@@ -470,43 +445,41 @@ Tuinvale Treefolk
 1x Signal Pest
 1x Inquisitive Puppet
 1x Pilgrim's Eye
-1x Meteor Golemn
+1x Meteor Golem
 1x Gingerbrute
 1x Farmstead Gleaner
 1x Mindless Automaton
 1x Maelstrom Colossus
 1x Sorcerer's Broom
-1x Eager COnstruct
-1x Sandston Oracle
+1x Eager Construct
+1x Sandstone Oracle
 1x Treasure Keeper
-1x Lumenrid Gargoyle
+1x Lumengrid Gargoyle
 1x Arachnoid
 
-#Colorless - Ramp
-
+# Colorless - Ramp
 1x Armillary Sphere
 1x Traveler's Amulet
 1x Heraldic Banner
 1x Spinning Wheel
 1x Seer's Lantern
-1x Mindstone
+1x Mind stone
 1x Burnished Hart
 1x Chromatic Sphere
-1x Prophetic Prisim
+1x Prophetic Prism
 1x Chromatic Star
 
-#Colorless - Equipment
-
+# Colorless - Equipment
 1x Whispersilk Cloak
 1x Cliffhaven Kitesail
 1x Armory of Iroas
 1x Haunted Cloak
 1x Short Sword
-1x Sai of the SHinobi
+1x Sai of the Shinobi
 1x Grafted Wargear
 1x Pennon Blade
 
-#Colorless - Noncreature Utility
+# Colorless - Noncreature Utility
 1x Mishra's Bauble
 1x Spawning Pit
 1x Codex Shredder
@@ -515,24 +488,21 @@ Tuinvale Treefolk
 1x Contagion Clasp
 1x Ingenuity Engine 
 
-#Lands - Single COlor Utility
-
+# Lands - Single Color Utility
 1x Ifnir Deadlands
 1x New Benalia
 1x Dwarven Mine
 1x Faerie Conclave
 1x Memorial to Unity
 
-#Lands - Fetch/Ramp
-
+# Lands - Fetch/Ramp
 1x Terramorphic Expanse
 1x Warped Landscape
 1x Evolving Wilds
 1x Guildless Commons
 1x Temple of the false god
 
-#Lands - Guildgate Duals
-
+# Lands - Guildgate Duals
 1x Boros Guildgate
 1x Orzhov Guildgate
 1x Golgari Guildgate
@@ -544,118 +514,100 @@ Tuinvale Treefolk
 1x Azorius Guildgate
 1x Rakdos Guildgate
 
-#Lands - Duals
-
+# Lands - Duals
 1x Dismal Backwater
 1x Blossoming Sands
 1x Rugged Highlands
-1x Tranquil COve
-1x Bloodfell cave
+1x Tranquil Cove
+1x Bloodfell caves
 1x Scoured Barrens
 1x Wind-Scarred Crag
 1x Thornwood Falls
-1x Jungle Hallo
+1x Jungle Hollow
 1x Swiftwater Cliffs
 
-#Lands - Colorless Utility
-
+# Lands - Colorless Utility
 1x Haunted Fengraf
 1x Mishra's Factory
 1x Rogue's passage
 1x Grasping Dunes
 1x Cryptic Caves
 
-# Lands - Multicolor
-
+#  Lands - Multicolor
 1x Cave of temptation
 1x Rupture Spire
 1x Transguild Promenade
 1x Unknown Shores
 
-#Multicolor - White/Blue
-
+# Multicolor - White/Blue
 1x Migratory Route
 1x Reflector Mage
 1x Cloudblazer
 1x Empyrean Eagle
-1x Soulheader
+1x Soulherder
 
-#Multicolor - White/Black
-
+# Multicolor - White/Black
 1x Thalisse, reverent Medium
 1x Necrotic Sliver
 1x Pitiless Pontiff
 1x General's Enforcer
 1x Unmake
 
-#Multicolor - Black/Red
-
+# Multicolor - Black/Red
 1x Bituminous Blast
 1x Shambling Remains
 1x Brawl-bash Ogre
-1x Juri, Master of th Revue
+1x Juri, Master of the Revue
 1x Murderous Redcap
 
-#Multicolor - White/Red
-
+# Multicolor - White/Red
 1x Double Cleave
-1x Skyknight Legionaire
+1x Skyknight Legionnaire
 1x Regal Leosaur
-1x Skyknight
+1x Skyknight Vanguard
 1x Fireborn Knight
 
-#Multicolor - White/Green
-
+# Multicolor - White/Green
 1x Ironroot Warlord
-1x Unflinching COurage
+1x Unflinching Courage
 1x Enlisted Wurm
-1x Conclave MEntor
+1x Conclave Mentor
 1x Good-Fortune Unicorn
 
-#Multicolor - Blue/Black
-
+# Multicolor - Blue/Black
 1x Drown in the Loch
-1x Obsessive STitcher
+1x Obsessive Stitcher
 1x Kathari Remnant
 1x Araumi of the Dead Tide
 1x Baleful Strix
 
-#Multicolor - Blue/Red
-
+# Multicolor - Blue/Red
 1x Sprite Dragon
 1x Izzet Charm
 1x Sonic Assault
 1x Loch Dragon
 1x Turn // Burn
 
-#Multicolor - Blue/Green
-
+# Multicolor - Blue/Green
 1x Spring // Mind
 1x Trumpeting Gnarr
 1x Lorescale Coatl
 1x Shardless Agent
 1x Primal Empathy
 
-#Multicolor - Black/Green
+# Multicolor - Black/Green
 1x Spider Spawning
 1x Catacomb Sifter
 1x Back for more
 1x Savvy Hunter
 1x Slitherhead
 
-#Multicolor - Green/Red
-
+# Multicolor - Green/Red
 1x Proud Wildbonder
 1x Grumgully, the generous
-1x BUrning-tree Emissary
+1x Burning-tree Emissary
 1x Bloodbraid Elf
 1x Ghor-clan rampager
-
-
-
-
-
-
 
 
 

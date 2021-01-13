@@ -1,0 +1,609 @@
+# Black/Blue - Graveyard
+1x Carrion Grub
+1x Cauldron's Gift
+1x Dread Return
+1x Driver of the Dead
+1x Haunted Dead
+1x Lotleth Giant
+1x Null Caller
+1x Ransack the Lab
+1x Revenant
+1x Sewer Shambler
+1x Syr Konrad, the Grim
+1x Terrus Wurm
+1x Tormod, the Desecrator
+1x Victimize
+
+# Black/Green - Counters
+1x Banewhip Punisher
+1x Bloodsoaked Altar
+1x Bloodthirsty Aerialist
+1x Defiant Salvager
+1x Feaster of Fools
+1x Festering Mummy
+1x Mortician Beetle
+1x Putrid Goblin
+1x Ravenous Harpy
+1x Skinrender
+1x Subtle Strike
+1x Swarm of Bloodflies
+1x Unholy Indenture
+1x Vengeful Warchief
+
+# Black/Red - Unblockable/Flying/Cheap Aggro
+1x Abyssal Specter
+1x Banehound
+1x Changeling Outcast
+1x Deadeye Tormentor
+1x Fourth Bridge Prowler
+1x Fretwork Colony
+1x Gurmag Angler
+1x Highborn Ghoul
+1x Liliana's Specter
+1x Malefic Scythe
+1x Mardu Skullhunter
+1x Mogis's Marauder
+1x Nantuko Husk
+1x Order of Midnight
+1x Vampire Nighthawk
+
+# Black/White - Tokens, Aristocrats
+1x Bastion of Remembrance
+1x Blood Seeker
+1x Cauldron Familiar
+1x Doomed Dissenter
+1x Epicure of Blood
+1x Eyeblight Cullers
+1x Gray Merchant of Asphodel
+1x Gruesome Scourger
+1x Marauding Blight-Priest
+1x Nadier, Agent of the Duskenel
+1x Serrated Scorpion
+1x Spark Reaper
+1x Vampire Neonate
+1x Viscera Seer
+1x Zulaport Cutthroat
+
+# Black - Generic Utility, value
+1x Blightbeetle
+1x Cadaver Imp
+1x Dead Drop
+1x Dusk Legion Zealot
+1x Exsanguinate
+1x Feast of Succession
+1x Foulmire Knight
+1x Gilt-Leaf Winnower
+1x Gravedigger
+1x Grimdancer
+1x Havoc Demon
+1x Maalfeld Twins
+1x Murderous Cut
+1x Phyrexian Rager
+1x Shambling Attendants
+1x Thorn of the Black Rose
+1x Twisted Abomination
+1x Vampire of the Dire Moon
+
+# Blue/Black or Red - Spells, Control
+1x Anticipate
+1x Archaeomancer
+1x Brainstorm
+1x Brineborn Cutthroat
+1x Callous Dismissal
+1x Capture Sphere
+1x Charmed Sleep
+1x Clutch of Currents
+1x Corrupted Conscience
+1x Counterspell
+1x Cryptic Serpent
+1x Deliberate
+1x Eidolon of Philosophy
+1x Elusive Spellfist
+1x Forceful Denial
+1x Frost Lynx
+1x Gitaxian Probe
+1x Hypnotic Sprite
+1x Into the Roil
+1x Jwari Disruption
+1x Logic Knot
+1x Lullmage's Domination
+1x Medomai's Prophecy
+1x Merfolk Looter
+1x Neutralize
+1x Ominous Seas
+1x Opt
+1x Preordain
+1x Rapid Hybridization
+1x Repulse
+1x Retreat to Coralhelm
+1x Rewind
+1x Scholar of the Ages
+1x Skywise Teachings
+1x Tezzeret's Gambit
+1x Think Twice
+1x Thirst for Knowledge
+1x Thunder Drake
+1x Voyage's End
+1x Witching Well
+
+# Blue/Green - Tempo Aggro
+1x AEther Adept
+1x Archipelagore
+1x Chart a Course
+1x Curiosity
+1x Exclude
+1x Exclusion Mage
+1x Force Away
+1x Man-o'-War
+1x Mantle of Tides
+1x Merchant Raiders
+1x Moonblade Shinobi
+1x Mulldrifter
+1x Ninja of the Deep Hours
+1x Octoprophet
+1x Pouncing Shoreshark
+1x Slither Blade
+1x Syr Elenora, the Discerning
+1x Voidwielder
+1x Wall of Frost
+1x Whirler Rogue
+
+# Blue/White - Fliers
+1x Angler Drake
+1x Augury Owl
+1x Aven Eternal
+1x Aven Surveyor
+1x Cloudkin Seer
+1x Eldrazi Skyspawner
+1x Nightveil Sprite
+1x Peregrine Drake
+1x Spectral Sailor
+1x Tome Raider
+1x Vantress Paladin
+1x Warden of Evos Isle
+1x Wave-Wing Elemental
+1x Winged Words
+1x Zephyr Charge
+
+# Colorless - Equipment
+1x Armory of Iroas
+1x Cliffhaven Kitesail
+1x Grafted Wargear
+1x Haunted Cloak
+1x Pennon Blade
+1x Sai of the Shinobi
+1x Short Sword
+1x Whispersilk Cloak
+
+# Colorless - Filler Creatures
+1x Arachnoid
+1x Diamond Knight
+1x Farfinder
+1x Farmstead Gleaner
+1x Filigree Familiar
+1x Gingerbrute
+1x Inquisitive Puppet
+1x Iron League Steed
+1x Lumengrid Gargoyle
+1x Maelstrom Colossus
+1x Memnite
+1x Meteor Golem
+1x Mindless Automaton
+1x Pilgrim's Eye
+1x Rograkh, Son of Rohgahh
+1x Sandstone Oracle
+1x Serrated Biskelion
+1x Signal Pest
+1x Skyscanner
+1x Sorcerer's Broom
+1x Staunch Throneguard
+1x Treasure Keeper
+
+# Colorless - Noncreature Utility
+1x Codex Shredder
+1x Contagion Clasp
+1x Ingenuity Engine
+1x Mishra's Bauble
+1x Relic of Progenitus
+1x Spawning Pit
+1x Vial of Dragonfire
+
+# Colorless - Ramp
+1x Armillary Sphere
+1x Burnished Hart
+1x Chromatic Sphere
+1x Chromatic Star
+1x Heraldic Banner
+1x Mind Stone
+1x Prophetic Prism
+1x Seer's Lantern
+1x Spinning Wheel
+1x Traveler's Amulet
+
+# Green/Black - Counters
+1x Armorcraft Judge
+1x Barkhide Troll
+1x Bloom Hulk
+1x Crocanura
+1x Fertilid
+1x Ivy Lane Denizen
+1x Jungle Delver
+1x Lumberknot
+1x Mowu, Loyal Companion
+1x Nessian Hornbeetle
+1x Soul's Might
+1x Spike Feeder
+1x Strength of the Pack
+1x Timberland Guide
+1x Tuinvale Treefolk
+1x Vastwood Fortification
+
+# Green/Blue - Ramp
+1x Ancient Brontodon
+1x Annoyed Altisaur
+1x Beanstalk Giant
+1x Colossal Dreadmaw
+1x Enter the Unknown
+1x Fyndhorn Elves
+1x Humble Naturalist
+1x Leafkin Druid
+1x Llanowar Tribe
+1x Primordial Wurm
+1x Sifter Wurm
+1x Titanoth Rex
+1x Wildheart Invoker
+
+# Green/Red - Landfall
+1x Auspicious Starrix
+1x Borderland Ranger
+1x Cultivate
+1x Farhaven Elf
+1x Grazing Gladehart
+1x Migratory Greathorn
+1x Retreat to Kazandu
+1x Sakura-Tribe Elder
+1x Scale the Heights
+1x Skyclave Pick-Axe
+1x Sporemound
+1x Territorial Baloth
+1x Territorial Scythecat
+1x Wood Elves
+1x Woodborn Behemoth
+
+# Green/White - Tokens
+1x Brindle Shoat
+1x Call the Scions
+1x Great Oak Guardian
+1x Imperious Perfect
+1x Iridescent Hornbeetle
+1x Jade Mage
+1x Jungleborn Pioneer
+1x Kozilek's Predator
+1x Nest Invader
+1x Overgrown Armasaur
+1x Predator's Howl
+1x Saproling Migration
+1x Season of Growth
+
+# Green - Generic Value
+1x Ambush Viper
+1x Become Immense
+1x Centaur Glade
+1x Deadly Recluse
+1x Duskwatch Recruiter
+1x Eternal Witness
+1x Glowstone Recluse
+1x Greater Mossdog
+1x Halana, Kessig Ranger
+1x Moss Viper
+1x Mutagenic Growth
+1x Noble Quarry
+1x Overcome
+1x Pheres-Band Brawler
+1x Prey Upon
+1x Rancor
+1x Snake Umbra
+1x Stingerfling Spider
+
+# Lands - Colorless Utility
+1x Cryptic Caves
+1x Grasping Dunes
+1x Haunted Fengraf
+1x Mishra's Factory
+1x Rogue's Passage
+
+# Lands - Duals
+1x Bloodfell Caves
+1x Blossoming Sands
+1x Dismal Backwater
+1x Jungle Hollow
+1x Rugged Highlands
+1x Scoured Barrens
+1x Swiftwater Cliffs
+1x Thornwood Falls
+1x Tranquil Cove
+1x Wind-Scarred Crag
+
+# Lands - Fetch/Ramp
+1x Evolving Wilds
+1x Guildless Commons
+1x Temple of the False God
+1x Terramorphic Expanse
+1x Warped Landscape
+
+# Lands - Guildgate Duals
+1x Azorius Guildgate
+1x Boros Guildgate
+1x Dimir Guildgate
+1x Golgari Guildgate
+1x Gruul Guildgate
+1x Izzet Guildgate
+1x Orzhov Guildgate
+1x Rakdos Guildgate
+1x Selesnya Guildgate
+1x Simic Guildgate
+
+# Lands - Multicolor
+1x Cave of Temptation
+1x Rupture Spire
+1x Transguild Promenade
+1x Unknown Shores
+
+# Lands - Single Color Utility
+1x Dwarven Mine
+1x Faerie Conclave
+1x Ifnir Deadlands
+1x Memorial to Unity
+1x New Benalia
+
+# Multicolor - Black/Green
+1x Back for More
+1x Catacomb Sifter
+1x Savvy Hunter
+1x Slitherhead
+1x Spider Spawning
+
+# Multicolor - Black/Red
+1x Bituminous Blast
+1x Brawl-Bash Ogre
+1x Juri, Master of the Revue
+1x Murderous Redcap
+1x Shambling Remains
+
+# Multicolor - Blue/Black
+1x Araumi of the Dead Tide
+1x Baleful Strix
+1x Drown in the Loch
+1x Kathari Remnant
+1x Obsessive Stitcher
+
+# Multicolor - Blue/Green
+1x Lorescale Coatl
+1x Primal Empathy
+1x Shardless Agent
+1x Snakeform
+1x Spring / Mind
+1x Trumpeting Gnarr
+1x Wistful Selkie
+
+# Multicolor - Blue/Red
+1x Izzet Charm
+1x Loch Dragon
+1x Sonic Assault
+1x Sprite Dragon
+1x Turn / Burn
+
+# Multicolor - Green/Red
+1x Bloodbraid Elf
+1x Burning-Tree Emissary
+1x Ghor-Clan Rampager
+1x Grumgully, the Generous
+1x Proud Wildbonder
+
+# Multicolor - White/Black
+1x General's Enforcer
+1x Necrotic Sliver
+1x Pitiless Pontiff
+1x Thalisse, Reverent Medium
+1x Unmake
+
+# Multicolor - White/Blue
+1x Cloudblazer
+1x Empyrean Eagle
+1x Migratory Route
+1x Reflector Mage
+1x Soulherder
+
+# Multicolor - White/Green
+1x Conclave Mentor
+1x Enlisted Wurm
+1x Good-Fortune Unicorn
+1x Ironroot Warlord
+1x Unflinching Courage
+
+# Multicolor - White/Red
+1x Double Cleave
+1x Regal Leosaur
+1x Skyknight Legionnaire
+1x Skyknight Vanguard
+1x Sunhome Guildmage
+
+# Red - Low Curve Aggro, Landfall
+1x Akoum Hellhound
+1x Alpine Guide
+1x Bolt Hound
+1x Borderland Marauder
+1x Enthralling Victor
+1x Erdwal Ripper
+1x Fanatical Firebrand
+1x Foundry Street Denizen
+1x Goblin Balloon Brigade
+1x Goblin Motivator
+1x Hanweir Lancer
+1x Insolent Neonate
+1x Inventor's Apprentice
+1x Keldon Marauders
+1x Mardu Heart-Piercer
+1x Mardu Warshrieker
+1x Monastery Swiftspear
+1x Orcish Hellraiser
+1x Plated Geopede
+1x Rimrock Knight
+1x Thunder-Thrash Elder
+1x Toggo, Goblin Weaponsmith
+1x Valakut Invoker
+1x Weaselback Redcap
+
+# Red - Pump
+1x Burning Anger
+1x Cartouche of Zeal
+1x Crystal Slipper
+1x Lightning Talons
+1x Meteoric Mace
+1x Rubblebelt Maaka
+1x Trumpet Blast
+
+# Red - Spells
+1x Act of Aggression
+1x Act of Treason
+1x Arc Trail
+1x Fervent Strike
+1x Firebolt
+1x Flame Jab
+1x Flame Slash
+1x Goblin War Party
+1x Gravitic Punch
+1x Guttersnipe
+1x Jaya's Greeting
+1x Kiln Fiend
+1x Light Up the Stage
+1x Lightning Bolt
+1x Omen of the Forge
+1x Pyre Hound
+1x Pyroceratops
+1x Roast
+1x Searing Blaze
+1x Spelleater Wolverine
+1x Spellgorger Weird
+1x Stoke the Flames
+1x Thrill of Possibility
+1x Throes of Chaos
+1x Young Pyromancer
+
+# Red - Tokens
+1x Akoum Stonewaker
+1x Anax, Hardened in the Forge
+1x Dragon Fodder
+1x Forbidden Friendship
+1x Goblin Bushwhacker
+1x Impact Tremors
+1x Mogg War Marshal
+1x Molten Birth
+
+# Red - Top End Aggro
+1x Boarding Party
+1x Cloudpiercer
+1x Crimson Fleet Commodore
+1x Dargo, the Shipwrecker
+1x Fanatic of Mogis
+1x Flametongue Kavu
+1x Frenzied Saddlebrute
+1x Havoc Jester
+1x Lava Serpent
+1x Scourge Devil
+1x Temur Battle Rage
+1x Volcanic Dragon
+
+# WUBRGC - Power Cards
+1x Captain of the Watch
+1x Flesh Carver
+1x Goblin Rabblemaster
+1x Immaculate Magistrate
+1x Mikokoro, Center of the Sea
+1x Solemn Simulacrum
+1x Sphinx of Uthuun
+1x Sword of Vengeance
+
+# White/Black - Lifegain/Aristocrats
+1x Ajani's Pridemate
+1x Angelic Accord
+1x Archon of Absolution
+1x Doomed Traveler
+1x Griffin Aerie
+1x Leonin Vanguard
+1x Ninth Bridge Patrol
+1x Pride Guardian
+1x Rally for the Throne
+1x Soul Warden
+1x Soul's Attendant
+1x Soulmender
+1x Student of Ojutai
+
+# White/Blue - Protection, Removal, Utility
+1x Banishing Light
+1x Benevolent Bodyguard
+1x Blessed Alliance
+1x Blinding Beam
+1x Divine Arrow
+1x Faith's Fetters
+1x Glass Casket
+1x Kor Line-Slinger
+1x Light of Hope
+1x Make a Stand
+1x Revitalize
+1x Serra Angel
+1x Skywhaler's Shot
+1x Steadfast Sentry
+1x Sunhome Stalwart
+1x Thraben Inspector
+1x Wall of Omens
+
+# White/Green - Aggro, Counters, Flying
+1x Aerial Assault
+1x Ardenvale Tactician
+1x Daybreak Chimera
+1x Expedition Raptor
+1x Faerie Guidemother
+1x Fearless Fledgling
+1x Fledgling Griffin
+1x Herald of the Sun
+1x Loyal Pegasus
+1x Patron of the Valiant
+1x Seraph of Dawn
+1x Slith Ascendant
+1x Spontaneous Flight
+1x Vulpikeet
+1x Wingsteed Rider
+
+# White/Red - Weenies, Go-wide, Group Punch
+1x Alharu, Solemn Ritualist
+1x Ancestral Blade
+1x Basri's Solidarity
+1x Canyon Jerboa
+1x Captain's Call
+1x Countless Gears Renegade
+1x Daring Skyjek
+1x Intangible Virtue
+1x Jubilant Mascot
+1x Nearheath Chaplain
+1x Prava of the Steel Legion
+1x Squad Captain
+1x Syr Alin, the Lion's Claw
+1x Triplicate Spirits
+
+# White - Generic Value Cards
+1x Anointer of Valor
+1x Court Street Denizen
+1x Fan Bearer
+1x Fencing Ace
+1x Hyena Umbra
+1x Kinsbaile Courier
+1x Kor Cartographer
+1x Mardu Woe-Reaper
+1x Palace Sentinels
+1x Rambunctious Mutt
+1x Seasoned Hallowblade
+1x Swallow Whole
+1x Vow of Duty
+1x Wall of One Thousand Cuts
+1x Youthful Knight
