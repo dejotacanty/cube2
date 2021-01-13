@@ -1,0 +1,367 @@
+BLUE
+Frost Walker
+Latch Seeker
+Dismal Failure
+
+WHITE
+Valorous Stance
+Meadowboon
+cELESTIAL cRUSADER
+BAnisher Priest
+Nearheath Pilgrim
+Azorious Arrester
+Steppe Lynx
+Mother of Runes
+
+RuthlessRipper
+Thrull Parasite
+Blood Artist
+Brian Maggot
+Malakir Cullblade
+Nekrataal
+Vulturous Aven
+Ultimate Price
+
+Goblin Wardriver
+Madcap Skills
+MAgmatic Insight -> Thrill of Possibility??
+
+
+Abzan Beastmaster
+Wolfir Avenger
+Masked Admirers
+Pelakka Wurrm
+Roar of the WUrm
+
+Blazing Hellhound
+Swift Warkite
+Rakdos Cackler
+
+Judges Familiar
+
+Far // Away
+Soul Manipulation **
+
+Pit Fight !!!
+Zendikar Incarnate
+Savage Ventmaw
+
+Kitchen Finks
+
+Drana's Emissary
+Debt to the Debtless
+
+Putrid Leech
+Necrogenesis
+winding Constrictor
+
+Winged Coatl
+
+Enigma Drake
+Winterflame
+
+Spitemare
+
+COLORLESS
+Bonesplitter
+
+CUBE#2
+
+Accorder Paladin
+Adanto Vanguard
+Aerial Responder
+Cloudgoat Ranger
+Fairground Warden
+Gryff's Boon
+Lone Rider
+Palace Jailer
+Serene Steward
+Soul Snare
+Sunscourge Champion
+
+Aetherize
+Control Magic?
+Dismiss
+Dissolve
+Merfolk trickster
+Phyrexian Ingester
+Remand
+Tempest Caller
+Telling Time
+
+Breeding Pit
+Enslave
+Harsh Scrutiny
+Kitesail Freebooter
+Morkurt Banshee
+Pawn of Ulamog
+Ravenous Chupacabra
+Scavenger Drake
+Skeletal Scrying
+Wall of Limbs
+Wanted Scoundrels
+Yargle, Glutton of Urbord
+Whisper, Blood Liturgist
+Weaponscraft Enthusiast -> Any token instants/soreceries?
+
+BeetlebackChief
+Bloodrage Brawler
+Conduit of Storms
+Fire Servant
+Geistblast
+GoblinSlide
+MAnticore Eternal
+Ordeal of Purphoros
+Pyreheart Wolf
+
+Durable Handicraft
+Gamekeeper - Expensive?
+Grun, the lonely king
+Reach of Branches
+Ridgescale Tussker
+Seed Guardian
+Squirrel Nest
+Thrashing Brontodon
+Ulvewnwald Mysteries
+Wasteland Viper -> Moss Viper
+
+Skymarrk Roc
+
+Kulrath Knight
+
+Juniper Order Ranger
+
+Start // Finish
+
+Bloodwater Entity
+Electrolyze
+
+Baloth Null
+Golgari Germination
+
+Stun Sniper
+
+Tatyova, Benthic Druid
+
+Breaker of Armies
+Thunderstaff
+Unteathered Express
+Wild Field Scarecrow
+
+Mortuary Mire?
+Thriving Lands?
+Myriad Landscape
+
+Fodder Cannon
+
+sCALDING cAULDRON??
+WITCHES CAULDRON
+Mind slash?
+Sanctum plowbeast
+sky hussar
+deputy of aquitals
+court hussar
+
+Invert the skies??
+
+
+
+=================================================================
++++++CHANGES++++++++++++++++++++++
+=======================================
+
+Elusive Spellfist -> Latch Seeker~
+Merfolk Looter -> Looter il-kor~
+Rewind -> Dismiss~
+Neutralize -> Dissolve~
+Capture Sphere -> Aetehrize~
+Frost Lynx -> Merfolk Trickster~
+Archipelagore -> Phyrexian Ingester~
+Retreat to Coralhelm -> Tempest Caller~
+
+Seasoned Hallowblade -> Adanto Vanguard~
+Seraph of Dawn -> Celestial Crusader~
+Ardenvale Tactivcian -> Aerial Responder~
+Loyal Pegasus -> Cloudgoat Ranger~
+Countless Gears Renegade -> Banisher Priest~
+Leonin Pridemate -> Serene Steward~
+Soulmender -> Lone Rider~
+Daring Skyjek -> Lone Missionary (Already Physically Done)
+Pride Guardian -> Nearheath Pilgrim~
+Student of Ojutai -> Sunscourge Champion~
+Glass Casket -> Fairgrounds Warden~
+Sunhome Stalwart -> Azorious Arrester~
+Divine Arrow -> Soul Snare~
+Palace Sentinels -> Palace Jailor~
+Vow of Duty -> Valorous Stance~
+Youthful Knight -> Steppe Lynx~
+
+Vengeful Warchief -> Scavenger Drake~
+Unholy Indenture -> Malakir Cullblade~
+Fourth Bridge Prowler -> Thrull Parasite~
+Highborn Ghoul -> Wanted Scoundrels~
+Mardu Skullhunter -> Kitesail Freebooter~
+Vampire Neonate -> Pawn of Ulamog~
+Shambling Attendants -> Nekrataal~
+Epicure of Blood -> Sengir Autocrat~
+Serrated Scorpion -> Weaponscraft Enthusiast~
+Gruesome Scourger -> Wall of Limbs~
+Driver of the Dead -> Whisper, blood liturgist~
+Haunted Dead -> Morkrut Bansheee~
+Twisted Abomination -> Yargle, Glutton of Urborg~
+Blood Seeker -> Vulturous Aven~
+Murderous Cut -> Ultimate Price~
+
+Cartouche of Zeal -> Madcap Skills~
+Valakut Invoker -> Conduit of Storms~
+Erdwal Ripper -> Bloodrage Brawler~
+Act of Aggresion -> Goblinslide~
+Lava Serpent -> Manticore Eternal~
+Scourge Devil -> Goblin Wardriver~
+
+Jungleborn Pioneer -> Wolfir Avenger~
+Moss Viper -> Wasteland Viper~
+Snake Umbra -> Ulvenwald Mysteries~
+Greater Mossdog -> Reach of Branches~
+Strength of the Pack -> Durable Handicraft~
+Ancient Brontodon -> Roar of the Wurm~
+Titanoth Rex -> Grunn, the lonely king~
+Primordial Wurm -> Pelakka Wurm~
+Jungle Delver -> Abzan Beastmaster~
+Brindle Shoat -> Masked Admirers~
+Become Immense -> Thrashing Brontodon~
+
+Shambling Remains -> Swift Warkite~
+Brawl-Bash ogre -> Kulrath Knight~
+
+Empyrean Eagle -> Azorious Charm~
+
+Unmake -> Start // Finish~
+General's Enforcer -> Debt to the Debtless!!!~
+
+Drown in the Loch -> Soul manipulation~
+
+Proud Wildbonder -> Pit fight
+Burning Tree Emissary -> Savage Ventmaw~
+
+Loch Dragon -> Bloodwater Entity~
+Turn//Burn -> Electrolyze~
+Sonic Assault -> Winterflame~
+
+Trumpeting Gnarr -> Winged Coatl~ 
+
+Back for More -> Baloth Null~
+Spider Spawning -> Winding Constrictor~
+
+Regal Leosaur -> Spitemare~
+Skyknight Legionnaire -> Stun Sniper~
+Ironroot Warlord -> Juniper Order Ranger~
+
+Warped Landscape -> Myriad Landscape~
+Guildgates -> Scry lands~
+
+Chromatic Sphere -> Terrarion~
+Relic of Progenitus -> Witch's Cauldron~
+Vial of Dragonfire -> Fodder Cannon~
+Mishra's Bauble -> Thunderstaff~
+Iron League Steed -> Unteathered Express~
+Memnite -> Breaker of Armies~
+Haunted Cloak -> Bonesplitter~
+
+===================================================================
+++++++++++++++CHANGES #2+++++++++++++++++++++++++++
+======================================================
+
+ADDITIONAL CHANGES
+
+Wall of one thousand cuts -> Quarry Colossus
+Fan Bearer -> Goldmeadow Harrrier
+Crimson Fleet Commodore -> Embodiment of Fury
+Armillary SPhere -> Wild Field Scarecrow
+Arc Trail -> Shower of Coals
+Doomed Dissenter -> Quarsi High Priest
+Caukldron's Gift -> Diabolic Servitude
+blinding beam -> Ruin Ghost
+
+# add 3 of WUBRG, 2 colorless, 1 land
+
+LAND
+1x Mirrodins Core - multicolor
+
+COLORLESS
+1x Porcelain Legionnaire - filler creature
+1x Spatial COntortion - Noncreature utility
+
+WHITE
+1x Battle Screech - tokens
+1x Soltari Trooper - weenies
+1x Ornitharch - tokens/flying
+
+BLUE
+1x Undo - control
+1x Mist Raven - Tempo/fflying
+1x Murder of Crows - control/flying
+
+BLACK
+1x Plaguecrafter - value
+1x Moan of the unhallowed - tokens/graveyard
+1x Enslave - value
+
+
+RED
+1x Beetleback chief - Tokens
+1x Ghost Lit Raider - value
+1x Rite of raging storm - top end aggro
+
+GREEN
+1x Penumbra Wurm - ramp
+1x Ranger's Guile - value
+1x Cudgel Troll - value
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
