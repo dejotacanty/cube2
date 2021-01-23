@@ -162,7 +162,12 @@ sky hussar
 deputy of aquitals
 court hussar
 
+==================
+INTERESTING CARDS
+==================
 Invert the skies??
+
+
 
 
 
@@ -282,6 +287,7 @@ Arc Trail -> Shower of Coals
 Doomed Dissenter -> Quarsi High Priest
 Caukldron's Gift -> Diabolic Servitude
 blinding beam -> Ruin Ghost
+colossal dreadmaw => Manadork???
 
 # add 3 of WUBRG, 2 colorless, 1 land
 
